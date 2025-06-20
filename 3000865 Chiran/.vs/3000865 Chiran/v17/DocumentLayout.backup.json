@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\SecurityCamera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|solutionrelative:3000865 Chiran\\SecurityCamera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\SecurityCamera.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|solutionrelative:3000865 Chiran\\SecurityCamera.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\DeviceParent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|solutionrelative:3000865 Chiran\\DeviceParent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\DeviceParent.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|solutionrelative:3000865 Chiran\\DeviceParent.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\DeviceManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|solutionrelative:3000865 Chiran\\DeviceManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\SmartLight.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|solutionrelative:3000865 Chiran\\SmartLight.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\3000865 Chiran.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|solutionrelative:3000865 Chiran\\3000865 Chiran.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\Thermostat.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|solutionrelative:3000865 Chiran\\Thermostat.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\DeviceManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|solutionrelative:3000865 Chiran\\DeviceManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\InputValidation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|solutionrelative:3000865 Chiran\\InputValidation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\SmartSpeaker.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|solutionrelative:3000865 Chiran\\SmartSpeaker.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\SmartSpeaker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|solutionrelative:3000865 Chiran\\SmartSpeaker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\SmartLight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|solutionrelative:3000865 Chiran\\SmartLight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\InputValidation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D984CB00-A1A5-4545-A172-7B960B87144E}|3000865 Chiran\\3000865 Chiran.vcxproj|solutionrelative:3000865 Chiran\\InputValidation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SmartLight.cpp",
+              "DocumentMoniker": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\SmartLight.cpp",
+              "RelativeDocumentMoniker": "3000865 Chiran\\SmartLight.cpp",
+              "ToolTip": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\SmartLight.cpp",
+              "RelativeToolTip": "3000865 Chiran\\SmartLight.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T16:49:11.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "3000865 Chiran.cpp",
+              "DocumentMoniker": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\3000865 Chiran.cpp",
+              "RelativeDocumentMoniker": "3000865 Chiran\\3000865 Chiran.cpp",
+              "ToolTip": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\3000865 Chiran.cpp",
+              "RelativeToolTip": "3000865 Chiran\\3000865 Chiran.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T16:34:39.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecurityCamera.cpp",
+              "DocumentMoniker": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\SecurityCamera.cpp",
+              "RelativeDocumentMoniker": "3000865 Chiran\\SecurityCamera.cpp",
+              "ToolTip": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\SecurityCamera.cpp",
+              "RelativeToolTip": "3000865 Chiran\\SecurityCamera.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T16:24:18.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SmartSpeaker.cpp",
+              "DocumentMoniker": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\SmartSpeaker.cpp",
+              "RelativeDocumentMoniker": "3000865 Chiran\\SmartSpeaker.cpp",
+              "ToolTip": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\SmartSpeaker.cpp",
+              "RelativeToolTip": "3000865 Chiran\\SmartSpeaker.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T16:23:48.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Thermostat.hpp",
+              "DocumentMoniker": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\Thermostat.hpp",
+              "RelativeDocumentMoniker": "3000865 Chiran\\Thermostat.hpp",
+              "ToolTip": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\Thermostat.hpp",
+              "RelativeToolTip": "3000865 Chiran\\Thermostat.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T16:06:27.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SmartLight.hpp",
+              "DocumentMoniker": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\SmartLight.hpp",
+              "RelativeDocumentMoniker": "3000865 Chiran\\SmartLight.hpp",
+              "ToolTip": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\SmartLight.hpp",
+              "RelativeToolTip": "3000865 Chiran\\SmartLight.hpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T15:18:20.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SmartSpeaker.hpp",
+              "DocumentMoniker": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\SmartSpeaker.hpp",
+              "RelativeDocumentMoniker": "3000865 Chiran\\SmartSpeaker.hpp",
+              "ToolTip": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\SmartSpeaker.hpp",
+              "RelativeToolTip": "3000865 Chiran\\SmartSpeaker.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T15:14:13.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecurityCamera.hpp",
+              "DocumentMoniker": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\SecurityCamera.hpp",
+              "RelativeDocumentMoniker": "3000865 Chiran\\SecurityCamera.hpp",
+              "ToolTip": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\SecurityCamera.hpp",
+              "RelativeToolTip": "3000865 Chiran\\SecurityCamera.hpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T15:12:56.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InputValidation.hpp",
+              "DocumentMoniker": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\InputValidation.hpp",
+              "RelativeDocumentMoniker": "3000865 Chiran\\InputValidation.hpp",
+              "ToolTip": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\InputValidation.hpp",
+              "RelativeToolTip": "3000865 Chiran\\InputValidation.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T15:12:51.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeviceParent.hpp",
+              "DocumentMoniker": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\DeviceParent.hpp",
+              "RelativeDocumentMoniker": "3000865 Chiran\\DeviceParent.hpp",
+              "ToolTip": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\DeviceParent.hpp",
+              "RelativeToolTip": "3000865 Chiran\\DeviceParent.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T15:12:15.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeviceManager.cpp",
+              "DocumentMoniker": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\DeviceManager.cpp",
+              "RelativeDocumentMoniker": "3000865 Chiran\\DeviceManager.cpp",
+              "ToolTip": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\DeviceManager.cpp",
+              "RelativeToolTip": "3000865 Chiran\\DeviceManager.cpp",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAEsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T08:23:56.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeviceParent.cpp",
+              "DocumentMoniker": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\DeviceParent.cpp",
+              "RelativeDocumentMoniker": "3000865 Chiran\\DeviceParent.cpp",
+              "ToolTip": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\DeviceParent.cpp",
+              "RelativeToolTip": "3000865 Chiran\\DeviceParent.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T08:23:36.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InputValidation.cpp",
+              "DocumentMoniker": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\InputValidation.cpp",
+              "RelativeDocumentMoniker": "3000865 Chiran\\InputValidation.cpp",
+              "ToolTip": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\InputValidation.cpp",
+              "RelativeToolTip": "3000865 Chiran\\InputValidation.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T08:23:11.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeviceManager.hpp",
+              "DocumentMoniker": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\DeviceManager.hpp",
+              "RelativeDocumentMoniker": "3000865 Chiran\\DeviceManager.hpp",
+              "ToolTip": "D:\\C02402- Chiran_G21270374\\C02402_Chiran_G21270374_Code\\3000865 Chiran\\3000865 Chiran\\DeviceManager.hpp",
+              "RelativeToolTip": "3000865 Chiran\\DeviceManager.hpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-17T08:22:39.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
